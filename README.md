@@ -1,0 +1,2 @@
+# autodoge
+script
